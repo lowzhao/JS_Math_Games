@@ -1,1 +1,3 @@
-# JS_Math_Games-Chifu_Chemulpo
+# JS_Math_Games
+
+### Chifu_Chemulpo

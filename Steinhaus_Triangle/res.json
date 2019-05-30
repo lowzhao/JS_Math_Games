@@ -1,0 +1,47 @@
+[
+	[{
+		"sign": true,
+		"x": 62.5,
+		"y": 110,
+		"currentStable": true,
+		"globalStable": true,
+		"crucial": false
+	}],
+	[{
+		"sign": false,
+		"x": 41.25,
+		"y": 65,
+		"currentStable": true,
+		"globalStable": true,
+		"crucial": false
+	}, {
+		"sign": false,
+		"x": 86.25,
+		"y": 65,
+		"currentStable": true,
+		"globalStable": false,
+		"crucial": false
+	}],
+	[{
+		"sign": true,
+		"x": 20,
+		"y": 20,
+		"currentStable": true,
+		"globalStable": true,
+		"crucial": true
+	}, {
+		"sign": false,
+		"x": 65,
+		"y": 20,
+		"currentStable": false,
+		"globalStable": false,
+		"crucial": false
+	}, {
+		"sign": true,
+		"x": 110,
+		"y": 20,
+		"currentStable": true,
+		"globalStable": true,
+		"crucial": false
+	}]
+]
